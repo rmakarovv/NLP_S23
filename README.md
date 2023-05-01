@@ -26,4 +26,4 @@ How to run the code:
 
 * The code in python notebook is self-explanatory and ready to run, after installing the requirements.
   
-* The code should be run in Google Colab, otherwise, you need to replace '!gdown' command with the files that are located in the directory 'data'
+* The code should be run in Google Colab, otherwise, you need to replace '!gdown' command with the files that are located in the directory 'data'. One of the files is too big to upload. It can be found by the following link: https://drive.google.com/uc?id=1Ej9AAef7xLi5xhMo5BN-qPQGeYHwTZ6O
