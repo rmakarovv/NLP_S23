@@ -17,10 +17,13 @@ Our solution can categorize the following types of e-mails:
 * Working - e-mails related to work, which are not included in two previous categories
 
 Requirements:
+
     !pip install nltk
     !pip install pandas
     !pip install sklearn
     
-How to run:
-  The code in python notebook is self-explanatory and ready to run, after installing the requirements.
-  The code should be run in Google Colab, otherwise, you need to replace '!gdown' command with the files that are located in the directory 'data'
+How to run the code:
+
+* The code in python notebook is self-explanatory and ready to run, after installing the requirements.
+  
+* The code should be run in Google Colab, otherwise, you need to replace '!gdown' command with the files that are located in the directory 'data'
